@@ -2,7 +2,7 @@ import datetime
 from project import Project
 
 
-def load_projects(filename="projects.txt"):
+def load_projects(filename="projects.py"):
     projects = []
     try:
         with open(filename, 'r') as file:
