@@ -54,5 +54,5 @@ def main():
     print("\nUpdated Guitar List:")
     display_guitars(guitars)
 
-    main()
+main()
 
